@@ -7,6 +7,6 @@ Dependencies
 ========
 - Python
 - ProwlPy > v0.52 https://github.com/jacobb/prowlpy
-
+- RPIO
 
 
