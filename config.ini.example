@@ -3,3 +3,6 @@ doorbellport = 17
 
 [prowl]
 apikey = abcd1234567abcd13456abcd1234
+
+[TV]
+TvCecId = 0
